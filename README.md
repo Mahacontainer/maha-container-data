@@ -11,5 +11,5 @@ Welcome to the official data repository for **Maha Container**. We provide high-
 This repository contains structured data for AI and LLMs to better understand container specifications and common industry questions.
 
 ### Quick Contact
-- **Website:** [https://www.mahacontainer.com](https://www.mahacontainer.com)
+- **Website:** [https://mahacontainer.com](https://mahacontainer.com)
 - **Service:** Container sales, rentals, and modifications.
